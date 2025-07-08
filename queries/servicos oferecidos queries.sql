@@ -1,0 +1,1 @@
+SELECT descricao_servico, valor_servico FROM Servico;
