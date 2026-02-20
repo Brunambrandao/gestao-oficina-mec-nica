@@ -1,5 +1,5 @@
 
-# Projeto de Banco de Dados: Gestão de Oficina Mecânica
+# Modelagem e implementação de banco de dados relacional para gestão de serviços automotivos utilizando SQL
 
 ## 📄 Descrição do Projeto
 
